@@ -1,6 +1,6 @@
-Version 3.10. Changelog:
+Version 2.11. Changelog:
 
-> Updated source code to v9.8.4.0.
+> Updated source code to v8.8.4.0.
 > Doubled limits on everything in the app
 > Increased download speed
 > Sending files up to 4GB each
