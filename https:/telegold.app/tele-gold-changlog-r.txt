@@ -1,0 +1,26 @@
+Version 3.10. Changelog:
+
+> Updated source code to v9.8.4.0.
+> Doubled limits on everything in the app
+> Increased download speed
+> Sending files up to 4GB each
+> Converting voice messages to text
+> Advanced chat management
+> Stickers with full>screen animations
+> Additional reactions
+> and more in Settings &gt; Telegram Premium
+> Option to show â€™Pinâ€™ button in main screen header.
+> Option to show last reaction instead of heart in main screen.
+> Added upload date of profile photos.
+> Option to load all recent stickers instead of only last 20.
+> Option to disable link preview.
+> Option to hide time in stickers.
+> Show if contact is mutual in contacts list (click on header to hide/show).
+> Option to change tap avatar action in chat.
+> Option to change tap and hold avatar action in chat.
+> Added cache size, database size and free space to plus details.
+> Added translate option to recent actions messages.
+> Join requests for public groups
+> Chat preview with scrolling and actions
+> Auto>saving of media to gallery
+> Over 100 fixes and optimizations
