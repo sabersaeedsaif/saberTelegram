@@ -1,4 +1,4 @@
-Version 1.60. Changelog:
+Version 1.80. Changelog:
 
 > Update Telegram Base to v9.0.2.0.
 > Add infinite reactions, emoji statuses and more
