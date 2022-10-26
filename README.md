@@ -1,2 +1,0 @@
-# saberTelegram
-تلجرام صابر
