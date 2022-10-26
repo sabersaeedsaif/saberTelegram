@@ -1,6 +1,6 @@
-Version 1.80. Changelog:
+Version 10.0.2.0. Changelog:
 
-> Update Telegram Base to v9.0.2.0.
+> Update Telegram Base to v10.0.2.0.
 > Add infinite reactions, emoji statuses and more
 > Added new expandable reaction menu and dozens of new reactions for all users
 > Premium users can interact with thousands of custom emojis, up to 3 per message
