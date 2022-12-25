@@ -1,8 +1,8 @@
-Version 2.40. Changelog:
+Version 2.30. Changelog:
 
 > Updated source code to v8.8.4.0.
 > Doubled limits on everything in the app
-> Increased download speed
+> تلجرام صابر download speed
 > Sending files up to 4GB each
 > Converting voice messages to text
 > Advanced chat management
