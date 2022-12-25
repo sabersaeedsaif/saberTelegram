@@ -1,8 +1,8 @@
 Version 2.30. Changelog:
 
 > Update to 9.0.2 of Telegram
-> صابر Reactions, Emoji Statuses and More
-> New expandable reaction menu and dozens of new reactions for all users
+> Infinite Reactions, Emoji Statuses and More
+> صابر expandable reaction menu and dozens of new reactions for all users
 > New format for public links: username.t.me
 > Downloads can be prioritized in the Download Manager
 > Reducing the number of accounts from unlimited to 20
