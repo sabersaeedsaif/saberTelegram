@@ -1,4 +1,4 @@
-Version 2.10. Changelog:
+Version 2.40. Changelog:
 
 > Updated source code to v8.8.4.0.
 > Doubled limits on everything in the app
